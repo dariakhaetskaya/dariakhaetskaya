@@ -1,14 +1,19 @@
 ## “Do. Or do not. There is no try.” — Yoda
 
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
-- 🌱 I’m currently learning: blockchain, deep learning
-- 👯 I’m looking to collaborate on: smart contracts, NFT
-- 🌻 Potentially interested to join any project that I find meaningful
+- 🌱 I’m currently learning: **blockchain, deep learning**
+- 👯 I’m looking to collaborate on: **smart contracts, NFT**
+- 🌻 Potentially interested to join **any project** that I find meaningful
+
+<br>
 
 [![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=merko)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
+
+[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCIIr&theme=merko)](https://github.com/dariakhaetskaya/Img2ASCII)
 
 
 ### Contact me:
