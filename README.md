@@ -13,7 +13,7 @@
 
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=merko)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
 
-[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCIIr&theme=merko)](https://github.com/dariakhaetskaya/Img2ASCII)
+[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=merko)](https://github.com/dariakhaetskaya/Img2ASCII)
 
 
 ### Contact me:
