@@ -3,12 +3,9 @@
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
 - 🌱 I’m currently learning: **blockchain, deep learning**
 - 👯 I’m looking to collaborate on: **smart contracts, NFT**
-- 🌻 Potentially interested to join **any project** that I find meaningful\
+- 🌻 Potentially interested to join **any project** that I find meaningful
 
 ![](https://64.media.tumblr.com/40ec95f3d9bc168390a11c77c23c1306/65caacdb6202bb79-43/s500x750/6420ceb31f1858afbdde56c9b2ee5af8f4a4e130.gifv)
-
-<br>
-
 [![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
