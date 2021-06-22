@@ -19,5 +19,6 @@
 
 ### Contact me:
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
+[![LinkedIn Badge]()](https://www.linkedin.com/in/daria-khaetskaya)
