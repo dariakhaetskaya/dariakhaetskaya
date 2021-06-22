@@ -11,9 +11,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=merko)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
-
-[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=merko)](https://github.com/dariakhaetskaya/Img2ASCII)
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=nightowl)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
+[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=nightowl)](https://github.com/dariakhaetskaya/Img2ASCII)
 
 
 ### Contact me:
