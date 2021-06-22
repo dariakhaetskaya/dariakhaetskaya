@@ -7,6 +7,12 @@
 
 [![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Contact me:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
