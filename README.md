@@ -21,5 +21,4 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
-
-[![LinkedIn Badge](https://img.shields.io/badge/Linked%20In-linked%20in-9cf?style=for-the-badge)](https://www.linkedin.com/in/daria-khaetskaya)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/daria-khaetskaya)
