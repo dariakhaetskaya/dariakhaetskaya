@@ -10,6 +10,15 @@
 - 🌻 Potentially interested to join **any project** that I find meaningful
 - 🪐 See my coursera sertificates on Linked In
 - 📒 GPA: **3.8/4.0** *(US Grading System)*; **4.8/5.0** *(Russian Grading System)*
+
+### Contact me:
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/daria-khaetskaya)
+[![Spotufy Badge](https://img.shields.io/badge/-Spotify-green?style=for-the-badge)](https://open.spotify.com/user/m3m2npug1m6iu93qkd4lqsi5o?si=599efb5c29b84135)
+
+<br>
    
 [![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,10 +26,3 @@
 
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=nightowl)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
 [![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=nightowl)](https://github.com/dariakhaetskaya/Img2ASCII)
-
-
-### Contact me:
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/daria-khaetskaya)
