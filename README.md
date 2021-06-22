@@ -3,7 +3,7 @@
 ![](https://64.media.tumblr.com/40ec95f3d9bc168390a11c77c23c1306/65caacdb6202bb79-43/s500x750/6420ceb31f1858afbdde56c9b2ee5af8f4a4e130.gifv) -->
 <img align="right" width="350" height="=250" src="https://64.media.tumblr.com/40ec95f3d9bc168390a11c77c23c1306/65caacdb6202bb79-43/s500x750/6420ceb31f1858afbdde56c9b2ee5af8f4a4e130.gifv">
 
-### 🦕About me:
+### 🦕 About me:
 
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
 - 🌱 I’m currently learning: **blockchain, deep learning**
@@ -12,7 +12,7 @@
 - 🪐 See my coursera sertificates on Linked In
 - 📒 GPA: **3.8/4.0** *(US Grading System)*; **4.8/5.0** *(Russian Grading System)*
 
-### ✨Links✨:
+### ✨ Links:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/fryrey)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](https://dariakhaetskaya@gmail.com)
