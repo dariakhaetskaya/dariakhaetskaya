@@ -11,7 +11,7 @@
 - 🪐 See my coursera sertificates on Linked In
 - 📒 GPA: **3.8/4.0** *(US Grading System)*; **4.8/5.0** *(Russian Grading System)*
 
-### Contact me:
+### ✨Links✨:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/fryrey)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](https://dariakhaetskaya@gmail.com)
