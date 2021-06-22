@@ -27,5 +27,5 @@
 
 ## 🌈 Pins:
 
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=nightowl)](https://github.com/dariakhaetskaya/NSU-CS-Helper )
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=nightowl)](https://github.com/dariakhaetskaya)
 [![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=nightowl)](https://github.com/dariakhaetskaya/Img2ASCII)
