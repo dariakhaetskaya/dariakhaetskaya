@@ -13,7 +13,7 @@
 
 ### Contact me:
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=9cf)](https://t.me/fryrey)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blueviolet)](https://t.me/fryrey)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=red)](https://dariakhaetskaya@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/daria-khaetskaya)
 [![Spotufy Badge](https://img.shields.io/badge/-Spotify-green?style=for-the-badge)](https://open.spotify.com/user/m3m2npug1m6iu93qkd4lqsi5o?si=599efb5c29b84135)
