@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on: **smart contracts, NFT**
 - 🌻 Potentially interested to join **any project** that I find meaningful
 - 🪐 See my coursera sertificates on Linked In
-- 📒 GPA: **3.8/4.0** *(US Grading System)*; **4.8/5.0** *(Russian Grading System)*
+- 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
 
 ### ✨ Links:
 
