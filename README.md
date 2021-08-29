@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: **blockchain, deep learning**
 - 👯 I’m looking to collaborate on: **smart contracts, NFT**
 - 🌻 Potentially interested to join **any project** that I find meaningful
-- 🪐 See my coursera sertificates on Linked In
+- 🪐 Check out my **coursera sertificates and skill assessments on Linked In**
 - 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
 
 ### ✨ Links:
