@@ -1,7 +1,7 @@
 ## “Do. Or do not. There is no try.” — Yoda
 <!-- 
 ![](https://64.media.tumblr.com/40ec95f3d9bc168390a11c77c23c1306/65caacdb6202bb79-43/s500x750/6420ceb31f1858afbdde56c9b2ee5af8f4a4e130.gifv) -->
-<img align="right" width="350" height="=250" src="https://64.media.tumblr.com/40ec95f3d9bc168390a11c77c23c1306/65caacdb6202bb79-43/s500x750/6420ceb31f1858afbdde56c9b2ee5af8f4a4e130.gifv">
+<img align="right" width="350" height="=250" src="https://i.pinimg.com/originals/95/75/92/957592dd6b8a80094888a34e61dd0d40.gif">
 
 ### 🦕 About me:
 
