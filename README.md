@@ -21,11 +21,11 @@
 
 <br>
    
-[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=nightowl&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=gotham&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌈 Pins:
 
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=nightowl&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
-[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=nightowl&cache_seconds=1800)](https://github.com/dariakhaetskaya/Img2ASCII)
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
+[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Img2ASCII)
