@@ -6,8 +6,8 @@
 ### 🦕 About me:
 
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
-- 🌱 I’m currently learning: **blockchain, deep learning**
-- 👯 I’m looking to collaborate on: **smart contracts, NFT**
+- 🌱 I’m currently learning: **neural networks, deep learning**
+- 👯 I’m looking to collaborate on: **Backend, Machine Learning**
 - 🌻 Potentially interested to join **any project** that I find meaningful
 - 🪐 Check out my **coursera sertificates and skill assessments on Linked In**
 - 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
@@ -27,5 +27,5 @@
 
 ## 🌈 Pins:
 
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper-Contents)
 [![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Img2ASCII)
