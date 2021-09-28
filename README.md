@@ -27,5 +27,5 @@
 
 ## 🌈 Pins:
 
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper-Contents)
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
 [![Minecraft](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
