@@ -28,4 +28,4 @@
 ## 🌈 Pins:
 
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper-Contents)
-[![Img to ASCII](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Img2ASCII&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Img2ASCII)
+[![Minecraft](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
