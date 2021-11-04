@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,4 +38,4 @@
 [![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Directions-App)
 [![OperatingSystems](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/OperatingSystems)
 [![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/CarFactory)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Parallel-Programming)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=1)](https://github.com/dariakhaetskaya/Parallel-Programming)
