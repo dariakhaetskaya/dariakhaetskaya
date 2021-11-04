@@ -26,16 +26,16 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=cobalt&layout=compact" />
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=cobalt&layout=compact" />
 </a>
 
 <br clear="all" />
    
 ## 🌈 Pins:
 
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
-[![Minecraft](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
-[![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Directions-App)
-[![OperatingSystems](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/OperatingSystems)
-[![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/CarFactory)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=1)](https://github.com/dariakhaetskaya/Parallel-Programming)
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
+[![Minecraft](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
+[![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Directions-App)
+[![OperatingSystems](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/OperatingSystems)
+[![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/CarFactory)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Parallel-Programming)
