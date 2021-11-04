@@ -38,4 +38,4 @@
 [![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Directions-App)
 [![OperatingSystems](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/OperatingSystems)
 [![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/CarFactory)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Parallel-Programming)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=1)](https://github.com/dariakhaetskaya/Parallel-Programming)
