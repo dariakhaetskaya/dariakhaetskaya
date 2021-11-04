@@ -6,28 +6,36 @@
 ### 🦕 About me:
 
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
-- 🌱 I’m currently learning: **neural networks, deep learning**
+- 🌱 I’m currently learning: **Neural Networks, Deep Learning, CyberSec**
 - 👯 I’m looking to collaborate on: **Backend, Machine Learning**
 - 🌻 Potentially interested to join **any project** that I find meaningful
-- 🪐 Check out my **coursera certificates and skill assessments on Linked In**
+- 🪐 Connect and check out my **coursera certificates and skill assessments on Linked In**
 - 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
 
 ### ✨ Links:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/fryrey)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](https://dariakhaetskaya@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/dariakhaetskaya921/)
 [![Spotufy Badge](https://img.shields.io/badge/-Spotify-green?style=for-the-badge)](https://open.spotify.com/user/m3m2npug1m6iu93qkd4lqsi5o?si=599efb5c29b84135)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:dariakhaetskaya@gmail.com)
 
 <br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=cobalt&layout=compact" />
+</a>
+
+<br clear="all" />
    
-[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=gotham&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakhaetskaya&show_icons=true&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌈 Pins:
 
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
 [![Minecraft](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Directions-App)
-
+[![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Directions-App)
+[![OperatingSystems](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/OperatingSystems)
+[![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/CarFactory)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=1800)](https://github.com/dariakhaetskaya/Parallel-Programming)
