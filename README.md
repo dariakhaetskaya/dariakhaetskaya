@@ -36,6 +36,6 @@
 [![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/NSU-CS-Helper)
 [![Minecraft](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
 [![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Directions-App)
-[![OperatingSystems](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/OperatingSystems)
+[![Proxy](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Anync-Caching-Proxy&theme=gotham&cache_seconds=2001)](https://github.com/dariakhaetskaya/Anync-Caching-Proxy)
 [![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/CarFactory)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Parallel-Programming)
