@@ -11,7 +11,7 @@
 - ⚡️ Connect and check out my **coursera certificates and skill assessments on Linked In**
 - 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
 - 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324)
-- 📚 Currently doing a research on bio inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains
+- 📚 Currently doing research on bio-inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains
 
 ### ✨ Links:
 
