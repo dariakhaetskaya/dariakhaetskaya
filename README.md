@@ -7,14 +7,15 @@
 
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
 - 🌱 I’m currently learning: **Neural Networks, Deep Learning, CyberSec**
-- 👯 I’m looking to collaborate on: **Backend, Machine Learning**
 - 🌻 Potentially interested to join **any project** that I find meaningful
-- 🪐 Connect and check out my **coursera certificates and skill assessments on Linked In**
+- ⚡️ Connect and check out my **coursera certificates and skill assessments on Linked In**
 - 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
+- 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324)
+- 📚 Currently doing a research on bio inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains
 
 ### ✨ Links:
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/fryrey)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/dariakhaetskaya)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/dariakhaetskaya921/)
 [![Spotufy Badge](https://img.shields.io/badge/-Spotify-green?style=for-the-badge)](https://open.spotify.com/user/m3m2npug1m6iu93qkd4lqsi5o?si=599efb5c29b84135)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:dariakhaetskaya@gmail.com)
@@ -37,5 +38,5 @@
 [![Minecraft](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
 [![Directions-App](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Directions-App&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Directions-App)
 [![OS](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham&cache_seconds=2001)](https://github.com/dariakhaetskaya/OperatingSystems)
-[![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/CarFactory)
+[![CarFactory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=HelperBot&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/HelperBot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham&cache_seconds=2000)](https://github.com/dariakhaetskaya/Parallel-Programming)
