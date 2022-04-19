@@ -9,9 +9,10 @@
 - 🌱 I’m currently learning: **Neural Networks, Deep Learning, CyberSec**
 - 🌻 Potentially interested to join **any project** that I find meaningful
 - ⚡️ Connect and check out my **coursera certificates and skill assessments on Linked In**
-- 📒 GPA: **3.9/4.0** *(US Grading System)*; **4.9/5.0** *(Russian Grading System)*
+- 📒 GPA: **4.9/5.0** *(Russian Grading System)*
 - 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324)
 - 📚 Currently doing research on bio-inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains
+- 🧰 [Link to my CV](https://drive.google.com/file/d/1apvMtFnCLrjexGBlrQgQzfcy0K1V0Urj/view?usp=sharing) 
 
 ### ✨ Links:
 
