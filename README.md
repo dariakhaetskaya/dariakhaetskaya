@@ -1,4 +1,4 @@
-## “Do. Or do not. There is no try.” — Yoda
+## “Peace cannot be kept by force, it can only be achived by understanding” — Albert Einstein
 <!-- 
 ![](https://64.media.tumblr.com/40ec95f3d9bc168390a11c77c23c1306/65caacdb6202bb79-43/s500x750/6420ceb31f1858afbdde56c9b2ee5af8f4a4e130.gifv) -->
 <img align="right" width="350" height="=250" src="https://i.pinimg.com/originals/95/75/92/957592dd6b8a80094888a34e61dd0d40.gif">
@@ -6,12 +6,12 @@
 ### 🦕 About me:
 
 - 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
-- 🌱 I’m currently learning: **Neural Networks, Deep Learning, CyberSec**
+- 🌱 I’m currently learning: **CyberSec, Neural Networks, Deep Learning**
 - 🌻 Potentially interested to join **any project** that I find meaningful
 - ⚡️ Connect and check out my **coursera certificates and skill assessments on Linked In**
-- 📒 GPA: **4.9/5.0** *(Russian Grading System)*
+- 📒 GPA: **4.9/5.0**
 - 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324)
-- 📚 Currently doing research on bio-inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains
+<!-- - 📚 Currently doing research on bio-inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains -->
 - 🧰 [Link to my CV](https://drive.google.com/file/d/1apvMtFnCLrjexGBlrQgQzfcy0K1V0Urj/view?usp=sharing) 
 
 ### ✨ Links:
