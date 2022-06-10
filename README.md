@@ -12,7 +12,7 @@
 - 📒 GPA: **4.9/5.0**
 - 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324)
 <!-- - 📚 Currently doing research on bio-inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains -->
-- 🧰 [Link to my CV](https://drive.google.com/file/d/1apvMtFnCLrjexGBlrQgQzfcy0K1V0Urj/view?usp=sharing) 
+- 🧰 [Link to my CV](https://drive.google.com/file/d/1MZhmDrmhKGRS7PHuFsjAs6GrY13VU7qq/view?usp=sharing) 
 
 ### ✨ Links:
 
