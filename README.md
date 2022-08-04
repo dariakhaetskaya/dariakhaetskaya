@@ -5,12 +5,12 @@
 
 ### 🦕 About me:
 
-- 🦋 19 y.o. CS Student aiming to succeed and bring some value to this world
+- 🦋 20 y.o. CS Student aiming to succeed and bring some value to this world
 - 🌱 I’m currently learning: **CyberSec, Neural Networks, Deep Learning**
-- 🌻 Potentially interested to join **any project** that I find meaningful
+- 🌻 Junior SWE @ Azul System
 - ⚡️ Connect and check out my **coursera certificates and skill assessments on Linked In**
 - 📒 GPA: **4.9/5.0**
-- 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324)
+- 🏆 Member of CTF Team [Nyanya catgirls uwu](https://ctftime.org/team/170324) and [smiley-from-telega](https://ctftime.org/team/193650)
 <!-- - 📚 Currently doing research on bio-inspired simulation of Color Constancy (Computer Vision) with support of Jet Brains -->
 - 🧰 [Link to my CV](https://drive.google.com/file/d/1MZhmDrmhKGRS7PHuFsjAs6GrY13VU7qq/view?usp=sharing) 
 
