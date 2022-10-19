@@ -11,7 +11,7 @@
 - ⚡️ Passionate about **sustainable development**
 - 📒 GPA: **4.9/5.0**
 - 🏆 Member of CTF Teams [Nyanya catgirls uwu](https://ctftime.org/team/170324) and [smiley-from-telega](https://ctftime.org/team/193650)
-- 🧰 [Link to my CV](https://drive.google.com/file/d/1MZhmDrmhKGRS7PHuFsjAs6GrY13VU7qq/view?usp=sharing) 
+- 🧰 [Link to my CV](https://drive.google.com/file/d/1Pt4qlM-hE8wSqLEOAWaYchxDvr7zQiAf/view?usp=sharing) 
 
 ### ✨ Links:
 
