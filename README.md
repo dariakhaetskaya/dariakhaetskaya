@@ -7,7 +7,7 @@
 
 - 🦋 20 y.o. CS Student aiming to succeed and bring some value to this world
 - 🌱 I’m currently learning: **CyberSec, Neural Networks, Deep Learning**
-- 🌻 Junior SWE @ **Azul System**
+- 🌻 SRE @ **Tinkoff**
 - ⚡️ Passionate about **sustainable development**
 - 📒 GPA: **4.9/5.0**
 - 🏆 Member of CTF Teams [Nyanya catgirls uwu](https://ctftime.org/team/170324) and [smiley-from-telega](https://ctftime.org/team/193650)
