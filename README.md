@@ -16,11 +16,11 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=dariakhaetskaya&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=2000" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NSU-CS-Helper&theme=gotham&cache_seconds=2000" />
 </a>
 
 <br clear="all" />
