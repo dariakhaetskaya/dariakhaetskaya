@@ -2,9 +2,8 @@
 
 ### 🦕 About me:
 
-- 🌻 Go Developer @ **Tinkoff**
+- 🌻 Go Developer
 - 🏆 Member of CTF Teams [smiley-from-telega](https://ctftime.org/team/193650) & [Nyanya catgirls uwu](https://ctftime.org/team/170324)
-- 🧰 [Link to my CV](https://drive.google.com/file/d/1kbIxDIMdQZZegYwrMgOagcVW3b8FOL4X/view) 
 
 ### ✨ Links:
 
